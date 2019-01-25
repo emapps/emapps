@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-01-25_1709",
+    "name": "EMAppsOEM",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -34,7 +34,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32.png",
     "noImageResize": "",
     "uniqCompNum": 8,
     "versionPublish": "4.8.10"
