@@ -1794,7 +1794,7 @@ body {
   color: #232323 !important;
 }
 .cid-rgbnKNR2FJ {
-  background: linear-gradient(45deg, #ff00d2, #2e06ff);
+  background: linear-gradient(45deg, #ff00d2, #4d30e2);
 }
 .cid-rgbnKNR2FJ H1 {
   color: #ffffff;
@@ -1880,6 +1880,9 @@ body {
 }
 .cid-rikMsWXsl3 .media-container-row .row-copirayt p {
   width: 100%;
+}
+.cid-rikMsWXsl3 .media-container-row .mbr-text B {
+  color: #969292;
 }
 .cid-rgbuBdB7CW {
   padding-top: 90px;
@@ -2647,4 +2650,7 @@ body {
 }
 .cid-rgbnOPiViS .media-container-row .mbr-text I {
   color: #ffffff;
+}
+.cid-rn4hyJZSwB {
+  background: linear-gradient(45deg, #45413e, #000000);
 }
